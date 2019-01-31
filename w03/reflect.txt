@@ -1,0 +1,12 @@
+1) The iteration construct I used was do while for my code to create this.
+2) The difference between while and do while is that in do-while, the code
+	block is executed at least once. The do-while loop runs at least
+	once, even though the condition is given is false.
+	With the while loop, the condition is at the beggining of the loop
+	block, and makes possible to never enter the loop. In while loop, the
+	condition is first tested and then the code block is executed if the 
+	test result is true. 
+3) Conditional expression has a few different actions. There is the boolean 
+	which is for telling whether a statement is true or false. Looking 
+	into boolean a bit further, if the statement is true then it would
+	equal to 1. If the state is false then it would equal to 0.

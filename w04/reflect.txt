@@ -1,0 +1,14 @@
+1) The arrays in this program have to be declared to hold 10 elements because there is no way (that I currently know of) to
+   declare the size of an array using an inputted value. Since 10 is the maximum number of days accepted, an array with size
+   10 is perfect as it will work in any situation for this program. Using a smaller value (ex. 4 days) will still work.
+
+2) The advantages of using matching arrays is that it is an efficient way of getting corresponding information saved. When 
+   having to sets of data that go along together, matching arrays used in one for loop for example is clean and efficient. 
+   Some disadvantages is that matching arrays must have data that matches, in other words if there is not a similar pattern
+   between to sets of data (ex. day and weather, test and grade), matching arrays are useless. Another possible disadvantage
+   is RAM efficency. Like in this program having set two arrays to a max size, if the whole array is not used it essentially
+   is taking up space for no reason. 
+
+3)I think the home portion was actually just right. Some of it was really similar to the previous workshop (the average), but
+  getting the loops to work in order for the user to continue getting averages, the program checking if the input is valid, 
+  and the user wanting to quit was a bit of a challenge. The whole part was not challenging so I would say it was just right.
