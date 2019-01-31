@@ -1,0 +1,6 @@
+1) A function is a block of statements to perform a task. There is no program without atleast one function. Every language 
+   needs function(s) in order to run and preform a task. Having multiple functions makes a program cleaner and efficient.
+
+2) The helper functions are seperate because they are not restricted to just this program. In other words, you can call
+   the helper functions for a variety of tasks outside of contacts program. Keeping them in a different module also keeps
+   contacts cleaner. 

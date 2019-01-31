@@ -1,0 +1,7 @@
+3. The functions findContactIndex and getTenDigitPhone benefit my source code a lot because of how frequently they are used.
+   The code within these functions is needed throughout the source code so having functions instead makes the code shorter
+   and easier to read, as well as cleaner and efficient. 
+
+4. I think I learned how to implement functions within one another better with assignment two. I am much more comfortable
+   dealing with larger assignments as well because it becomes easier to break it down into functions and working at it in 
+   parts.

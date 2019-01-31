@@ -1,0 +1,3 @@
+1. I think the simplier way of asking user's for information is better. Example, what is your first name? last name? etc.
+
+2. We do have to add the extra 26 character space in order to count the spaces that can occur in the answer as well.
