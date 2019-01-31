@@ -1,0 +1,1 @@
+In doing this workshop/lab i've learned how to first open a project in visual studios. I feel that I do need more practise in completing this assignment but this was a great assignment. I learned how to read the error bugs and how to fix them. I think I kept forgetting to put the 'return 0' value. 
