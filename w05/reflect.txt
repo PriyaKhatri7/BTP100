@@ -1,0 +1,8 @@
+1) One of the advantages of using an array of structs vs parallel arrays is that you are working with one array.
+   You can have many different variables of different types all controlled under one array, which is easier for calling and
+   assigning input whereas with parallel arrays you must keep track of two arrays and update the information together or it 
+   can mess up the order.
+
+2) The reason the preferred method of declaring a struct type is in a header file is so that the struct is initiallized 
+   globally vs locally, meaning you only have to initialize it once and all the codes will be able to use it vs having to 
+   initialize it multiple times.
