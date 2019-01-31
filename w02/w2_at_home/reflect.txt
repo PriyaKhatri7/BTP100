@@ -1,0 +1,20 @@
+1- What do think is the most important thing you learned in this workshop?
+I think the most important thing i've learned in this assignment was how to troubleshoot. I was
+getting weird bugs while I was working on this assignment. I have to look up the microsoft solutions
+and even then I didn't understand the bug. I also reached out to a software developer that I work
+with to have a fresh eye since I was wracking my brain around it for the past few days and couldn't 
+figure it out.
+
+2- Why must you add .005 to the value derived when calculating the GST owing?
+.005 needs to be added because that is how much that needs to be added when calculating the GST owing.
+This would be considering the tax owing in the problem
+
+3- What is the result of a casting operation?
+the result of a casting operation is to convert a variable from one kind of data type to another
+kind of data type. For example in this assignment, we have done the int into a float type.
+
+4- Why do you think you were required to use the modulus operator in this workshop?
+I think that it was best to use the modulus operator in this workshop was because we've recently
+learned it in our lecture courses. The modulas operator (%) shows the remainder that results
+from the problem. This was essential in our assignment because it was all dealing with numbers
+and money. 
